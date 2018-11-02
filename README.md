@@ -19,9 +19,7 @@ npm serve
 ```console
 yarn start
 ```
-optional port 
-npm serve --port 8080
-yarn start --port 8080
+optional port "npm serve --port 8080" or "yarn start --port 8080"
 
 #### open browser 
 http://localhost:4200
