@@ -1,21 +1,21 @@
 # File Explorer in Angular 6
 
 ## Installation
-####install with npm
+#### install with npm
 ```console
 npm install 
 ```
-####install with yarn
+#### install with yarn
 ```console
 yarn install
 ```
 
 ## Running
-####run with npm
+#### run with npm
 ```console
 npm serve 
 ```
-####run with yarn
+#### run with yarn
 ```console
 yarn start
 ```
@@ -23,5 +23,5 @@ optional port
 npm serve --port 8080
 yarn start --port 8080
 
-####open browser 
+#### open browser 
 http://localhost:4200
